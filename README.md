@@ -50,3 +50,8 @@ INSERT INTO inventario (nombre, categoria, metal, precio, stock) VALUES
 ('Aros Hook Blue', 'aros', 'oro', 25000, 4),
 ('Anillo Wish', 'aros', 'plata', 30000, 4),
 ('Anillo Cuarzo Greece', 'anillo', 'oro', 40000, 2);
+
+EJEMPLOS:
+![imagen](https://github.com/NicoOrregoOlguin/Tienda-de-Joyas_API/assets/113557666/ca03e196-0706-409e-91f0-280998d0aaaf)
+
+![imagen](https://github.com/NicoOrregoOlguin/Tienda-de-Joyas_API/assets/113557666/63be1f69-ec4b-4008-8ad9-6a2bab087eb4)
